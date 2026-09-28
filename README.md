@@ -1,10 +1,10 @@
-# ⚡ Monitoramento Energético ESG
+#  Monitoramento Energético ESG
 
 Projeto de banco de dados desenvolvido para monitoramento e análise do consumo de energia, com foco na organização de dados e em indicadores relacionados à sustentabilidade e ESG.
 
 O objetivo é estruturar informações de consumo energético de forma que possam ser consultadas e analisadas, auxiliando na identificação de padrões de consumo e na geração de informações úteis para tomada de decisão.
 
-## 🎯 Objetivo
+##  Objetivo
 
 Desenvolver uma solução capaz de:
 
@@ -14,7 +14,7 @@ Desenvolver uma solução capaz de:
 - Utilizar PL/SQL para automatizar operações no banco de dados;
 - Apoiar o acompanhamento de indicadores de eficiência energética.
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 - SQL
 - PL/SQL
@@ -22,7 +22,7 @@ Desenvolver uma solução capaz de:
 - Modelagem de Dados
 - Git e GitHub
 
-## 📊 Conceitos aplicados
+##  Conceitos aplicados
 
 - Modelagem relacional
 - Normalização de dados
@@ -32,7 +32,7 @@ Desenvolver uma solução capaz de:
 - Procedures e funções PL/SQL
 - Organização e análise de dados
 
-## 📁 Estrutura do projeto
+##  Estrutura do projeto
 
 ```text
 database/
@@ -48,11 +48,10 @@ diagrams/
 └── modelo-dados.png
 ```
 
-## 🚧 Status
+##  Status
 
 Projeto acadêmico em processo de organização e documentação para portfólio.
 
-## 👨‍💻 Autor
+##  Autor
 
 Felipe Souza da Silva  
-Análise e Desenvolvimento de Sistemas — FIAP
