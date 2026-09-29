@@ -1,4 +1,4 @@
-#  Monitoramento Energético ESG
+#  Monitoramento Energético
 
 Projeto de banco de dados desenvolvido para monitoramento e análise do consumo de energia, com foco na organização de dados e em indicadores relacionados à sustentabilidade.
 
