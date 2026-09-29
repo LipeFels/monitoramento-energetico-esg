@@ -1,6 +1,6 @@
 #  Monitoramento Energético ESG
 
-Projeto de banco de dados desenvolvido para monitoramento e análise do consumo de energia, com foco na organização de dados e em indicadores relacionados à sustentabilidade e ESG.
+Projeto de banco de dados desenvolvido para monitoramento e análise do consumo de energia, com foco na organização de dados e em indicadores relacionados à sustentabilidade.
 
 O objetivo é estruturar informações de consumo energético de forma que possam ser consultadas e analisadas, auxiliando na identificação de padrões de consumo e na geração de informações úteis para tomada de decisão.
 
